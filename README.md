@@ -22,5 +22,5 @@ Task Manager Backend is a Java Spring Boot project designed to manage personal t
 ## Installation & Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-manager-backend.git
+git clone https://github.com/Marjona1629/task-manager-backend.git
 cd task-manager-backend
